@@ -12,6 +12,8 @@ Ultimately, this data comes from the [FAA Data Catalog](https://catalog.data.faa
 
 Here is an ERD of the tables (files) and their relationships with each other.
 
+![FAA ERD](FAA_ERD.png)
+
 TODO: CREATE AND SAVE ERD FOR THIS PAGE
 
 ### The Files
