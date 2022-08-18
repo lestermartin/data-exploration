@@ -6,7 +6,7 @@ Its RAW format is CSV.
 
 ## Data Location
 
-Ultimately, this data comes from the [FAA Data Catalog]{https://catalog.data.faa.gov/dataset}, but the curated dataset being used can be downloaded from my personal Dropbox account -- [faa-data.zip]{https://www.dropbox.com/s/3zmfmarszouz4vd/faa-data.zip?dl=0}.
+Ultimately, this data comes from the [FAA Data Catalog](https://catalog.data.faa.gov/dataset), but the curated dataset being used can be downloaded from my personal Dropbox account -- [faa-data.zip](https://www.dropbox.com/s/3zmfmarszouz4vd/faa-data.zip?dl=0).
 
 ## The Schema
 
