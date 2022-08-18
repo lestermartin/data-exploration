@@ -4,6 +4,10 @@ This dataset is a mudged & modified example of the kind of information available
 
 Its RAW format is CSV.
 
+## Data Location
+
+Ultimately, this data comes from the [FAA Data Catalog]{https://catalog.data.faa.gov/dataset}, but the curated dataset being used can be downloaded from my personal Dropbox account -- [faa-data.zip]{https://www.dropbox.com/s/3zmfmarszouz4vd/faa-data.zip?dl=0}.
+
 ## The Schema
 
 Here is an ERD of the tables (files) and their relationships with each other.
@@ -39,7 +43,7 @@ The section provides a data dictionary of each of the main files that make up th
 | CancellationCode | 18 |  |
 | Diverted      | 19    | 0 |
 
-#### carrier.csv
+#### carriers.csv
 
 | Field         | Index | Example Data |
 | ------------- |:-----:| -----:|
