@@ -14,8 +14,6 @@ Here is an ERD of the tables (files) and their relationships with each other.
 
 ![FAA ERD](FAA_ERD.png)
 
-TODO: CREATE AND SAVE ERD FOR THIS PAGE
-
 ### The Files
 
 The section provides a data dictionary of each of the main files that make up this FAA data.
